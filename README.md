@@ -1,1 +1,1 @@
-# designPatterns
+# Gaidynas ta java
